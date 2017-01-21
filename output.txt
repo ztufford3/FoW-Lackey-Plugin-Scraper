@@ -1,0 +1,158 @@
+Amaterasu, Guide of Light	LEL	LEL-001 	Resonator	Myth	{w}{w}{1}	3	800	800	Light	SR	Whenever this card deals damage ⇒ You gain that much life.{w}{w}, rest two recovered resonators you control: Put this card from your graveyard into your field rested. Play this ability only if this card is in your graveyard.Inheritance {w}{w}{1}: Target J/resonator gains [+800/+800] until end of turn.	
+Amaterasu's Foresight	LEL	LEL-002	Chant		{w}{1}	2			Light	U	Quickcast
+Prevent all damage that would be dealt by J/resonators this turn.	
+Beast of Holy Light	LEL	LEL-003	Resonator	Beast	{w}	1	300	300	Light	C	Barrier {r}{b}
+Inheritance {w}: Target J/resonator gains [+300/+300] and Barrier {r}{b} until end of turn. (Pay {w} and discard this card to play this ability.)	
+Lumia's Purification	LEL	LEL-004	Chant		{w}{w}{1}	3			Light	R	Remnant
+Destroy target rested non-magic stone card.	
+Millium's Weapon	LEL	LEL-005	Chant		{w}	1			Light	C	Quickcast
+Put two [+100/+100] counters on target J/resonator.	
+Snow White of the Crystal Apple	LEL	LEL-006	Resonator	Fairy Tale	{w}{w}{2}	4	0	0	Light	R	This card enters your field with two [+100/+100] counters on it for each light magic stone you control.{w}, remove a [+100/+100] counter from this card: Put a [+100/+100] counter on another target light J/resonator.	
+Spirit of Light	LEL	LEL-007	Resonator	Spirit	{w}{w}	2	600	600	Light	C	When this card enters your field ⇒ Put a [+100/+100] counter on another target J/resonator you control.	
+The Seven Dwarves	LEL	LEL-008	Resonator	Fairy Tale	{w}{w}{1}	3	0	0	Light	U	This card enters your field with seven [+100/+100] counters on it.Prevent all damage that would be dealt to this card. If damage was prevented this way, remove a [+100/+100] counter from this card.	
+Ancient Manager	LEL	LEL-009	Resonator	Ancient	{r}	1	300	300	Fire	C	When this card enters your field ⇒ Remove the top card of your deck from the game. This card deals 100 damage multiplied by the total cost of the card removed this way to your opponent.	
+Bastet, Goddess of Cats	LEL	LEL-010 	Resonator	Cthulhu	{r}{1}	2	700	700	Fire	SR	If a Cthulhu you control would deal damage to a J/resonator, it deals double that much instead.Inheritance {r}{1}: Put five limit counters on target Cthulhu J/resonator with Limit.	
+Bastet's Fascination	LEL	LEL-011	Chant		{r}	1			Fire	C	Quickcast
+Target J/resonator must block this turn if able. Draw a card.	
+Conjure Time Bomb	LEL	LEL-012	Chant		{r}{1}	2			Fire	U	Put a [100/100] fire Bomb resonator token with "At the beginning of your turn ⇒ Banish this card. If you do, it deals 1000 damage to your opponent and each J/resonator your opponent controls." into your field.Awakening {r}{r}{1}: That token gains "At the end of your turn ⇒ Banish this card. If you do, it deals 1000 damage to your opponent and each J/resonator your opponent controls." until end of turn.	
+Invisible Flame	LEL	LEL-013	Resonator	Magic Lifeform	{r}{1}	2	600	600	Fire	C	Inheritance {r}{1}: This card deals 600 damage to target J/resonator. (Pay {r}{1} and discard this card to play this ability.)	
+Scyscraper Giant	LEL	LEL-014	Resonator	Fairy Tale	{r}{r}{5}	7	1700	1700	Fire	U	Precision Barrier (Chant)
+Rest: This card deals 800 damage to each J/resonator without Flying.	
+Time-Guide Admiral, Alfred	LEL	LEL-015	Resonator	Ancient	{r}{r}{1}	3	800	800	Fire	R	When this card enters your field ⇒ If you removed two or more mana counters from J/ruler this turn and you have no produced will, put two mana counters on your J/ruler.	
+World Flame Summoning	LEL	LEL-016	Chant		{r}{r}{4}	6			Fire	R	Choose two - Your opponent banishes a special magic stone; or this card deals 800 damage to each resonator your opponent controls; or this card deals 800 damage to your opponent; or this card deals 1500 damage to target J-ruler.	
+Alhama'at's Mage Knight	LEL	LEL-017	Resonator	Magic Lifeform/Ancient Magic	{u}{1}	2	500	700	Water	U		
+Charlotte, Wielder of the Sacred Spirit	LEL	LEL-018 	Resonator	Wizard	{u}{u}{u}{1}	4	0	0	Water	SR	Barrier (Total cost equal to or less than number of cards in your hand.)This card gains [+200/+200] for each card in your hand.When this card enters your field ⇒ Draw a card.	
+Fishing	LEL	LEL-019	Chant		{u}	1			Water	C	Put the top card of your deck into your graveyard. If it was put into a graveyard this way, put a [X00/X00] water/darkness Fantasy resonator token into your field, where X is that card's total cost.	
+Jiang Ziya, the Fisherman	LEL	LEL-020	Resonator	Myth	{u}{u}{1}	3	700	700	Water	U	When this card enters your field ⇒ Put the top card of your deck into your graveyard. If it was put into your graveyard this way, put a [X00/X00] water/darkness Fantasy resonator token into your field, where X is that card's total cost.	
+Moojdart's Illusionary Soldier	LEL	LEL-021	Resonator	Fantasy	{u}	1	100	100	Water	C	Prevent all damage that would be dealt to this card during your opponent's turn.
+{u}: Return this card to its owner's hand.	
+Rachel, Alhama'at's Advisor	LEL	LEL-022	Resonator	Ancient	{u}{u}	2	600	600	Water	R	Inheritance {u}{u}: Return target resonator to its owner's hand. (Pay {u}{u} and discard this card to play this ability.)	
+Rachel's Smile	LEL	LEL-023	Chant		{u}{u}{3}	5			Water	U	Quickcast
+Rest all J/resonators and magic stones your opponent controls.	
+Reunion of Sisters	LEL	LEL-024	Chant		{u}{u}{1}	3			Water	R	Choose one, if you control a light J/resonator and another water J/resonator, you may choose both - Draw two cards; or return target resonator to its owner's hand.	
+Fiethsing, the Fate Spinning Winds	LEL	LEL-025 	Resonator	Elf/Six Sages	{g}{1}	2	600	600	Wind	SR	Quickcast
+When this card enters your field ⇒ You may return another target resonator you control to its owner's hand.Inheritance {g}{1} Target J/resonator gains [+600/+600] until end of turn. Search your deck for a card named "Fiethsing's Monocle" and put it into your field. Then shuffle your deck	
+Final Breeze	LEL	LEL-026	Chant		{g}{1}	2			Wind	R	Quickcast
+Return target spell to its owner's hand.
+Torrent Your opponent can't play spells this turn.	
+Gale Force	LEL	LEL-027	Chant		{g}	1			Wind	U	Quickcast
+Destroy target resonator with Flying.	
+Jack, Climbing the Beanstalk	LEL	LEL-028	Resonator	Fairy Tale	{g}{g}{1}	3	800	800	Wind	U	When this card deals damage to your opponent ⇒ You may banish this card. If you do, you may search your deck for a card named "Skyscraper Giant" and put it into your field. Then shuffle your deck.	
+Luan, Auspicious Beast	LEL	LEL-029	Resonator	Beast	{g}{2}	3	700	700	Wind	U	Inheritance {g}{2}: Target J/resonator gains [+700/+700] until end of turn. (Pay {g}{2} and discard this card to play this ability.)	
+Magic Stone Life Form	LEL	LEL-030	Resonator	Magic Lifeform	{g}	1	300	300	Wind	R	When this card is put into a graveyard from your field ⇒ Produce {w}, {r}, {u}, {g}, or {b}.	
+Planting Beans	LEL	LEL-031	Chant		{g}	1			Wind	C	Search your deck for a card and put it into your graveyard. Then shuffle your deck. If this card was awakened, put that card from your graveyard into your hand.Awakening {g}{1}	
+Sacred Beast of Wind	LEL	LEL-032	Resonator	Beast	{g}	1	300	300	Wind	C	Flying
+Inheritance {g}: Target J/resonator gains [+300/+300] and Flying until end of turn. (Pay {g} and discard this card to play this ability.)	
+Alhama'at's Black Lightning	LEL	LEL-033	Chant		{b}{b}	2			Dark	U	This card cannot be cancelled.Destroy target non-darkness resonator. If this card was awakened, put it into its owner's hand as it resolves.Awakening {b}{3}	
+Death at Midnight	LEL	LEL-034	Chant		{b}{1}	2			Dark	C	Quickcast
+Your opponent banishes a resonator. Put a [+100/+100] counter on each J/resonator your opponent controls.	
+Dimension Dragon, Nidhogg	LEL	LEL-035 	Resonator	Twelve Apostles/Dragon	{b}{b}{b}{3}	6	1200	1200	Dark	SR	Flying
+When this card enters your field ⇒ Remove all resonators your opponent controls with the lowest total cost among resonators your opponent controls from the game.	
+Fated Reunion	LEL	LEL-036	Chant		{b}{1}	2			Dark	R	Choose one, if you control two or more darkness J/resonators, you may choose both - Search your deck for a card. Then shuffle the rest of your deck and put that card on top of it; or draw a card.	
+Kumomaru	LEL	LEL-037	Resonator	Vampire	{b}{b}	2	700	700	Dark	U	When this card enters your field ⇒ Put two [+100/+100] counters on target resonator your opponent controls.	
+Shadow of Lapis	LEL	LEL-038	Resonator	Fantasy	{b}	1	200	400	Dark	C	Banish this card: Put a token copy of target resonator token you control into your field.	
+Yashahime, First Daughter of the Mikage	LEL	LEL-039	Resonator	Vampire	{b}{b}{1}	3	700	800	Dark	R	When this card enters your field ⇒ Move all [+100/+100] counters from other J/resonators to this card.{b}, remove a [+100/+100] counter from this card: Put two [+100/+100] counters on another target Vampire you control.	
+Yashamaru	LEL	LEL-040	Resonator	Vampire	{b}	1	300	300	Dark	C	When this card enters your field ⇒ Destroy target resonator your opponent controls with one or more [+100/+100] counters on it.	
+A Rendezvous of Light and Wind	LEL	LEL-041	Chant		{w}{g}{2}	4			Light/Wind	U	Quickcast
+Choose one, if you control a light J/resonator and another wind J/resonator, you may choose both - You may put a light or wind resonator with total cost 4 or less from your hand into your field; or put four [+100/+100] counters on J/resonator you control.	
+Altea's Elite	LEL	LEL-042	Resonator	Ancient	{r}{u}{1}	3	200	1000	Fire/Water	C	When this card enters your field ⇒ Reveal the top four cards of your deck. Put a chant from among them into your hand and the rest into your graveyard.	
+Ammit, Beast of Gluttony	LEL	LEL-043	Resonator	Chimera	{g}{b}{5}	7	1500	1500	Wind/Dark	U	When this card enters your field ⇒ Destroy target resonator. If you do, you gain life equal to its DEF.	
+Ancient Barrier	LEL	LEL-044	Addition		{r}{u}{1}	3			Fire/Water	U	Players pay {2} more to play non-Ancient Magic chants.	
+Barrier Seal	LEL	LEL-045	Addition		{w}{r}	2			Light/Fire	U	When this card enters your field ⇒ Remove all cards in all graveyards from the game.If a card would be put into a graveyard from anywhere, remove it from the game instead.	
+Blessed Knight	LEL	LEL-046	Resonator	Human	{w}{r}{1}	3	400	400	Light/Fire	C	When this card enters your field ⇒ Destroy target rested resonator your opponent controls.	
+Catalyst Spirit	LEL	LEL-047	Resonator	Spirit	{r}{u}	2	600	600	Fire/Water	C	Banish this card: Put two mana counters on target J/ruler.	
+Crimson Ray	LEL	LEL-048	Chant		{w}{r}	2			Light/Fire	C	Quickcast
+This card deals 600 damage to target player or J/resonator. You gain 600 life.	
+Curse of the Kyuubi	LEL	LEL-049	Chant		{g}{b}	2			Wind/Dark	R	Quickcast
+Cancel target non-resonator spell unless its controller pays X. If that spell was cancelled this way, search its controller's deck, graveyard, and hand for all cards with that name and remove them from the game. Then that player shuffles their deck.	
+Deceptive Dream	LEL	LEL-050	Resonator	Fantasy	{u}{b}{2}	4	700	700	Water/Dark	C	When this card enters your field ⇒ Your opponent discards a card.When this card is put into a graveyard from your field ⇒ Draw a card.	
+Demonic Instigator	LEL	LEL-051	Resonator	Demon	{r}{u}{1}	3	700	700	Fire/Water	C	J/resonators your opponent controls must attack this card if able.Whenever this card is dealt damage by a J/resonator ⇒ This card deals that much damage to that J/resonator.	
+Divine Beast of Attoractia	LEL	LEL-052	Resonator	Divine Beast	{w}{g}	2	600	600	Light/Wind	R	Whenever you play an Inheritance ability ⇒ This card gains [+200/+200] and "Whenever this card deals damage ⇒ You gain that much life." until end of turn.Inheritance {w}{g}: Target J/resonator you control gains [+600/+600] until end of turn.	
+Dragon of Scenic Beauty	LEL	LEL-053	Resonator	Dragon	{w}{g}{2}	4	700	800	Light/Wind	U	Quickcast Flying
+You may pay {w}{g} less to play this card if you cancelled a spell your opponent controlled this turn.	
+Fairy of Recurrence	LEL	LEL-054	Resonator	Fairy	{w}{r}	2	400	400	Light/Fire	C	Flying
+When this card enters your field ⇒ Search your deck for a card named "Fairy of Recurrence", reveal it and put it into your hand. Then shuffle your deck.	
+Faria's Summon	LEL	LEL-055	Chant		{w}{g}	2			Light/Wind	C	Quickcast
+Search your main deck for a resonator, reveal it and put it into your hand. Then shuffle your deck.
+Torrent Recover up to one target magic stone.	
+Fiethsing's Monocle	LEL	LEL-056	Addition		{w}{g}	2			Light/Wind	U	Bestowed resonator gains "Rest Produce {w}, {r}, {u}, {g}, or {b}."
+Bestow Rest	
+Ghost of Attoractia	LEL	LEL-057	Resonator	Fantasy	{u}{b}	2	100	300	Water/Dark	U	Whenever this card deals damage to your opponent ⇒ Draw a card. Your opponent discards a card.	
+Glorius, Masked Crusader // Faria, Ruler of Divine Beasts	LEL	LEL-058-r,LEL-058-j	Ruler	Human			0//1000	0//1000	Light/Wind	R	Judgement {w}{g}{1}
+Energize:  {w}{g} (As the game starts, if you are not the player going first, you get a will coin with "Banish this coin: Produce {w} or {g}.")Discard a card with Inheritance: Draw a card. Play this ability only during your turn and only once per turn. // When this card enters your field ⇒ Put the top card of your magic stone deck into your field.Each turn, you may play your first Inheritance ability without paying its cost. You still discard that card.God's Art  {0}: This card gains Barrier until end of turn. Play God's Art  only once per game.	
+Griphon, Racing Across Darkness	LEL	LEL-059	Resonator	Chimera	{g}{b}{4}	6	1200	1200	Wind/Dark	C	Flying
+When this card enters your field ⇒ Put the top two cards of your magic stone deck into your field.	
+Grusbalesta, Magic Stone Researcher	LEL	LEL-060 	Resonator	Six Sages	{g}{b}{1}	3	600	600	Wind/Dark	SR	Magic stones you control gain Barrier.
+This card gains [+100/+100] for each magic stone you control with a different name.When this card enters your field ⇒ Banish any number of magic stones. Put the top X cards of your magic stone deck into your field rested, where X is the number of magic stones banished this way.This card gains Swiftness and Precision as long as you control five or more magic stones with different names.	
+Grusbalesta's Secret Technique	LEL	LEL-061	Chant		{g}{b}	2			Wind/Dark	C	Quickcast
+Target magic stone becomes a [1000/1000] resonator with Swiftness until end of turn. It's still a magic stone.	
+Healing Wing Dragon	LEL	LEL-062	Resonator	Dragon	{w}{r}{3}	5	1200	1200	Light/Fire	U	Flying
+When this card enters your field ⇒ You gain 1000 life.	
+Illusion Wizard	LEL	LEL-063	Resonator	Wizard	{u}{b}{1}	3	500	500	Water/Dark	C	When this card enters your field ⇒ Put a [400/400] water/darkness Fantasy resonator token into your field.	
+Illusory Projection	LEL	LEL-064	Resonator	Fantasy	{u}{b}	2	400	400	Water/Dark	C	When this card is put into graveyard from your field ⇒ Put a [400/400] water/darkness Fantasy resonator token into your field.	
+Invading Demon of Water, Valentina // Valentina, Released Terror	LEL	LEL-065-r,LEL-065-j	Ruler	Wanderer			0//1000	0//1000	Water/Dark	R	Judgement {u}{b}{1}
+Energize:  {u}{b} (As the game starts, if you're not the player going first, you get a will coin with "Banish this coin: Produce {u} or {b}.")Whenever you play a water chant ⇒ Target resonator gains [-X00/0] until end of turn, where X is that chant's total cost.Whenever you play a darkness chant ⇒ Target resonator gains [0/-X00] until end of turn, where X is that chant's total cost. // You may pay {1} less to play water/darkness cards. (A water/darkness card is both water and darkness.)
+Banish two resonators: Choose one - Draw a card; or destroy target resonator.	
+Jeanne d'Arc, the Pious Flame	LEL	LEL-066	Resonator	Human	{w}{w}{r}{r}	4	1000	1000	Light/Fire	R	Swiftness Precision First Strike	
+Kaguya, Lunar Researcher	LEL	LEL-067 	Resonator	Wanderer/Human	{w}{g}{1}	3	700	800	Light/Wind	SR	Flying
+You may pay {1} less to play this card if you control a Moon.Whenever a card is bestowed to this card ⇒ Recover this card.	
+Kaguya's Moonbeam Butterfly	LEL	LEL-068	Chant		{w}{g}	2			Light/Wind	R	Search your deck for a resonator or addition with total cost X+1 or less and put it into your field. Then shuffle your deck.	
+Lilias Petal, Agent of Salvation // The Nine-Tailed Fox	LEL	LEL-069-r,LEL-069-j	Ruler	Human			0//0	0//0	Wind/Dark	R	Judgment:  {0}
+Energize:  {g}{b} (As the game starts, if you are not the player going first, you get a will coin with "Banish this coin: Produce {g} or {b}.") // This card cannot be destroyed.
+Banish a wind resonator, a darkness resonator, and a "Killing Stone": Search your deck, hand, removed area, and/or cards you own from outside the game for a wind or darkness Chimera resonator and put it into your field. If you searched your deck, shuffle it. Play this ability only once per turn.
+Rest: Shuffle target card named "Killing Stone" from your graveyard into your magic stone deck.	
+Lilias Petal's Assistant	LEL	LEL-070	Resonator	Wizard	{g}{b}{1}	3	500	500	Wind/Dark	C	When this card enters your field ⇒ Put target wind or darkness resonator with total cost 1 from your graveyard into your field.	
+Lumia, the Fated Rebirth // Lumia, Saint of the Crimson Lotus	LEL	LEL-071-r,LEL-071-j	Ruler	Human			0//1000	0//1000	Light/Fire	R	Judgment:  {w}{r}{1}
+Energize:  {w}{r} (As the game starts, if you are not player going first, you get a will coin with "Banish this coin: Produce {w} or {r}.")At the end of your turn ⇒ Remove target rested resonator you control from the game. Then put it into its owner's field. // Swiftness
+As this card enters your field, you may remove a card named "Nyarlathotep, the Crimson Radiance" in your hand from the game.
+This card gains Imperishable and "When this card deals damage ⇒ You gain that much life." as long as a card named "Nyarlathotep, the Crimson Radiance" is in your removed area and was removed by this card.Whenever this card attacks ⇒ Remove target resonator from the game. Then put it into its owner's field rested.	
+Lumia's Judgment	LEL	LEL-072	Chant		{w}{r}	2			Light/Fire	R	Remove all non-magic stone, non-J-ruler cards with total cost X or less from the game.	
+Magic Rebound	LEL	LEL-073	Chant		{u}{b}	2			Water/Dark	C	Quickcast
+Change the target of target spell or ability with a single target. Draw a card. (The new target must be legal.)	
+Meeting of Light and Fire	LEL	LEL-074	Chant		{w}{r}{1}	3			Light/Fire	U	Quickcast
+Choose one, if you control a light J/resonator and another fire J/resonator, you may choose both - Reveal the top card of your deck. You gain 100 life multiplied by the total cost of the card revealed this way. Put that card into your hand; or reveal the top card of your deck. This card deals 100 damage multiplied by the total cost of the card revealed this way to your opponent. Put that card into your hand.	
+Messenger of Lilias Petal	LEL	LEL-075	Resonator	Beast	{g}{b}	2	600	600	Wind/Dark	C	When this card enters your field ⇒ Search your magic stone deck for a special magic stone and reveal it. Then shuffle the rest of your magic stone deck and put that card on top of it.	
+Moojdart, Lady of Illusions	LEL	LEL-076 	Resonator	Six Sages	{u}{b}{2}	4	800	800	Water/Dark	SR	Flying
+Other water resonators you control gain [+200/+200].Other darkness resonators you control gain [+200/+200].Banish a Fantasy resonator: This card gains Barrier (Chant) until end of turn.	
+Muul, the Town That Never Was	LEL	LEL-077	Addition		{u}{b}{1}	3			Water/Dark	C	{u}{b}, remove a resonator in your graveyard from the game: Put a [400/400] water/darkness Fantasy resonator token into your field.	
+Nightmare, the Ashen Dream	LEL	LEL-078	Resonator	Fantasy	{u}{b}{1}	3	200	200	Water/Dark	R	When this card enters your field ⇒ Return target resonator to its owner's hand. Its controller discards a card.	
+Nyarlathotep, the Crimson Radiance	LEL	LEL-079 	Resonator	Human/Cthulhu	{w}{r}	2	700	700	Light/Fire	SR	Limit 1
+Awakening {w}: When this card enters your field ⇒ Remove target resonator from the game.
+When this card leaves your field for a non-field zone ⇒ Put that removed card into its owner's field.Awakening {r}: When this card enters your field ⇒ You may play a light or fire chant with total cost 3 or less from your hand without paying its cost.At the end of turn ⇒ If there are not limit counters on this card, return it to its owner's hand.	
+Plot of Water and Darkness	LEL	LEL-080	Chant		{u}{b}{1}	3			Water/Dark	U	Quickcast
+Choose one, if you control a water J/resonator and another darkness J/resonator, you may choose both - Destroy target resonator, or put a [400/400] water/darkness Fantasy resonator token into your field.	
+Priest of Divine Protection	LEL	LEL-081	Resonator	Human	{w}{r}{1}	3	700	700	Light/Fire	C	Quickcast
+When this card enters your field ⇒ If it was played from your hand, remove another target resonator you control from the game. Then put it into its owner's field rested.	
+Prokaryotic Being	LEL	LEL-082	Resonator	Magic Lifeform	{r}{u}	2	0	0	Fire/Water	U	This card gains [+200/+200] for each chant in your graveyard.{r}: This card gains Swiftness until end of turn.
+{u}: This card gains Flying until end of turn.	
+Rune of Sol	LEL	LEL-083	Chant		{r}{u}	2			Fire/Water	C	Quickcast
+Search your deck for an Ancient Magic, reveal it and put it into your hand. Then shuffle your deck.	
+Runic Commander Demon, Akiot	LEL	LEL-084 	Resonator	Seven Luminaries Demon	{r}{u}	2	600	600	Fire/Water	SR	When this card enters your field ⇒ Put a mana counter on your J/ruler.When you play a chant ⇒ Your may return this card to its owner's hand.	
+Sacred Komainu	LEL	LEL-085	Resonator	Divine Beast	{w}{g}{3}	5	1000	1000	Light/Wind	C	Whenever you do judgment ⇒ Return this card to its owner's hand.
+Inheritance {w}{g}{3}: Target J/resonator you control gains [+1000/+1000] until end of turn. (Pay {w}{g}{3} and discard this card to play this ability.)	
+Shining Kirin	LEL	LEL-086	Resonator	Divine Beast	{w}{g}{1}	3	600	600	Light/Wind	C	When this card enters your field ⇒ Draw a card.
+Inheritance {w}{b}{1}: Target J/resonator gains [+600/+600] until end of turn. Draw a card. (Pay {w}{g}{1} and discard this card to play this ability.)	
+Sol, Hierophant of the Helio Star // Sol, Dark Commander of Steam	LEL	LEL-087-r,LEL-087-j	Ruler	Seven Luminaries Mage			0//500	0//500	Fire/Water	R	Judgment:  {r}{u}{1}
+Energize:  {r}{u} (As the game starts, if you are not the player going first, you get a will coin with "Banish this coin: Produce {r} or {u}.")
+Mana 2 (As the game starts, put two mana counters on this card.)Remove a mana counter from this card: Produce {r} or {u}. Spend this will only to play Ancient Magic cards. // Mana 5 (This card enters your field with five mana counters on it.)
+As this card enters your field, you may remove a card named "Runic Commander Demon, Akiot" in your hand from the game. If you do, this card enters your field with five mana counters on it.)This card gains [+600/+600] as long as a card named "Runic Commander Demon, Akiot" is in your removed area and was removed by this card.Remove a mana counter from this card: Produce {r} or {u}. Spend this will only to play Ancient Magic cards.	
+Steam Explosion	LEL	LEL-088	Chant		{r}{u}	2			Fire/Water	R	This card deals 200 damage multiplied by X to target resonator and your opponent.	
+Sympathy of Fire and Water	LEL	LEL-089	Chant		{r}{u}	2			Fire/Water	U	Choose one, if you control a fire J/resonator and another water J/resonator, you may choose both - Produce {r}{u}{1}, Spend this will only yo play Ancient Magic cards; or target chant in your graveyard gains Remnant untl end of turn.	
+The Manticore	LEL	LEL-090	Resonator	Chimera	{g}{b}{3}	5	900	900	Wind/Dark	R	Flying
+When this card enters your field ⇒ Choose one - Look at your opponent's hand and choose a card. They discard that card; or destroy target addition or regalia your opponent controls.	
+Tuning of Wind and Darkness	LEL	LEL-091	Chant		{g}{b}{1}	3			Wind/Dark	U	Choose one, if you control a wind J/resonator and another darkness J/resonator, you may choose both - Recover up to four magic stones; or put target resonator from your graveyard into your hand.	
+Twin-Headed Dragon	LEL	LEL-092	Resonator	Dragon	{r}{u}{2}	4	1000	1000	Fire/Water	R	FlyingYour may spend will to play this card's Awakening costs as though this card were an Ancient Magic.Awakening {r}: When this card enters your field ⇒ It deals 1000 damage to target resonator.Awakening {u}: When this card enters your field ⇒ Rest up to two target resonators. They don't recover during their controller's next recovery phase.	
+Valentina's Reach	LEL	LEL-093	Chant		{u}{b}	2			Water/Dark	R	Choose one - Your opponent discards X cards; or you draw X cards.	
+Wetlands of Magical Origin	LEL	LEL-094	Addition		{g}{b}	2			Wind/Dark	U	Rest: Recover target magic stone.	
+White Horn Kaichi	LEL	LEL-095	Resonator	Divine Beast	{w}{g}	2	500	500	Light/Wind	C	Precision
+Inheritance {w}{g}: Target J/resonator gains [+500/+500] and Precision until end of turn. (Pay {w}{g} and discard this card to play this ability.)	
+Awakened Magic Stone, the Earth	LEL	LEL-096	Special Magic Stone							R	If your J/ruler isn't "Lumia, the Fated Rebirth" or "Lumia, Saint of the Crimson Lotus", this card enters your field rested unless you pay 300 life.Treat this card as a light magic stone and a fire magic stone.Rest: Produce {w} or {r}.When you do judgment of a light ruler ⇒ Recover this card.	
+Killing Stone	LEL	LEL-097	Special Magic Stone							R	If your J/ruler isn't "Lilias Petal, Agent of Salvation" or "The Nine-Tailed Fox", this card enters your field rested unless you pay 300 life.Treat this card as a wind magic stone and a darkness magic stone.Rest: Produce {g} or {b}.When this card is put into a graveyard from your field ⇒ Your opponent loses 100 life and you gain 100 life.	
+Magic Stone of Vaporization	LEL	LEL-098	Special Magic Stone							R	If your J/ruler isn't "Sol, Hierphant of the Helio Star" or "Sol, Dark Commander of Steam", this card enters your field rested unless you pay 300 life.Treat this card as a fire magic stone and a water magic stone.
+Rest: Produce {r} or {u}.
+{1}, Rest: Put a mana counter on your J/ruler.	
+Pricia's Memoria	LEL	LEL-099	Special Magic Stone							R	If your J/ruler isn't "Glorius, Masked Crusader" or "Faria, Ruler of Divine Beasts", this card enters your field rested unless you pay 300 life.Treat this card as a light magic stone and a wind magic stone.Rest: Produce {w} or {g}.
+Rest: As long as your J-ruler is "Faria, Ruler of Divine Beasts", it gains [+200/+200] until end of turn.	
+Remains of Attoractia	LEL	LEL-100	Special Magic Stone							R	If your J/ruler isn't "Invading Demon of Water, Valentina" or "Valentina, Released Terror", this card enters your field rested unless you pay 300 life.Treat this card as a water magic stone and a darkness magic stone.
+Rest: Produce {u} or {b}.
+Rest: Target resonator token gains [+100/+100] until end of turn.	
